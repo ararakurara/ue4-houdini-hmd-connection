@@ -1,0 +1,4 @@
+D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\Definitions.HMD_write_file.h
+d:\git\ue4-houdini-hmd-connection\hmd_write_file\source\hmd_write_file\RWTxtFile.h
+D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Inc\HMD_write_file\RWTxtFile.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h

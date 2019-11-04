@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HMD_write_file-8230.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\HMD_write_fileEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\HMD_write_file.cpp.obj"
+"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\RWTxtFile.cpp.obj"
+"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\HMD_write_file.init.gen.cpp.obj"
+"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\RWTxtFile.gen.cpp.obj"
+"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\Default.rc2.res"
+/OUT:"D:\GIT\ue4-houdini-hmd-connection\HMD_write_file\Intermediate\Build\Win64\UE4Editor\Development\HMD_write_file\UE4Editor-HMD_write_file-8230.lib"
+/INCLUDE:IMPLEMENT_MODULE_HMD_write_file

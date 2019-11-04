@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HMD_write_file.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5764962F-6A3E-43FA-8CD1-F55B803639EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HMD_write_file.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HMD_write_fileEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C0008649-1800-4DAF-B28D-FCAC7F6EA0A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HMD_write_file">
+      <UniqueIdentifier>{096640AD-3018-4A33-8F81-4D3CD5CAD9C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HMD_write_file\HMD_write_file.Build.cs">
+      <Filter>Source\HMD_write_file</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HMD_write_file\HMD_write_file.cpp">
+      <Filter>Source\HMD_write_file</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HMD_write_file\HMD_write_file.h">
+      <Filter>Source\HMD_write_file</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HMD_write_file\RWTxtFile.cpp">
+      <Filter>Source\HMD_write_file</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HMD_write_file\RWTxtFile.h">
+      <Filter>Source\HMD_write_file</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
